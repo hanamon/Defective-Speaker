@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":223,"indent":0,"parameters":[[-68,-68,-68,0],1,true]},{"code":230,"indent":0,"parameters":[30]},{"code":101,"indent":0,"parameters":["",0,1,1]},{"code":401,"indent":0,"parameters":[""]},{"code":401,"indent":0,"parameters":["                                 편지를 읽는다"]},{"code":102,"indent":0,"parameters":[["예","아니오"],1,0,1,1]},{"code":402,"indent":0,"parameters":[0,"예"]},{"code":231,"indent":1,"parameters":[1,"picture_1",1,0,480,480,100,100,255,0]},{"code":101,"indent":1,"parameters":["",0,2,2]},{"code":401,"indent":1,"parameters":[""]},{"code":235,"indent":1,"parameters":[1]},{"code":223,"indent":1,"parameters":[[0,0,0,0],1,true]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"아니오"]},{"code":223,"indent":1,"parameters":[[0,0,0,0],1,true]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"편지","switchId":6,"trigger":1},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"하하호호","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
