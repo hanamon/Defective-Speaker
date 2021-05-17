@@ -5,6 +5,7 @@
 
 ### ['여기'](https://hanamon.github.io/defective-speaker/)에서 플레이 해보실 수 있습니다.
 스피커의 모험이 시작됩니다.
+###### * 로딩되는데 1~2분 소요됩니다.
 
 ##### [Graphic Works](https://www.instagram.com/hanamon.kr/)
 ##### [Listen to the Sound Track](https://soundcloud.com/hanamon/sets/defective_speaker_2018)
