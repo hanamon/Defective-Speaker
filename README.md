@@ -3,7 +3,7 @@
 
 ![speaker](https://user-images.githubusercontent.com/77230980/118475090-c8d61880-b746-11eb-86b4-4580a0a709b0.png)
 
-### ['여기'](https://hanamon.github.io/defective-speaker/)에서 플레이 해보실 수 있습니다.
+### ['여기'](https://hanamon.github.io/Defective-Speaker/)에서 플레이 해보실 수 있습니다.
 스피커의 모험이 시작됩니다.
 ###### * 로딩되는데 1~2분 소요됩니다.
 
